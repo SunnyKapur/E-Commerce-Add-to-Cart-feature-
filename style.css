@@ -174,7 +174,7 @@ button:active {
         height: 100%;
         width: 100%;
         background-color: lightseagreen;
-        position: absolute;
+        position: fixed;
         top: 0;
         right: -400px;
     }
