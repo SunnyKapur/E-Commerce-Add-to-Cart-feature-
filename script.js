@@ -246,3 +246,10 @@ function removeToCart(id){
 
     renderCartScreen()
 }
+
+let hambuger_icon = document.querySelector('.hambuger_icon')
+let mobile_page = document.querySelector('.mobile_page')
+
+hambuger_icon.addEventListener('click',function(){
+    
+})
